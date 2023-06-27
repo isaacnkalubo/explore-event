@@ -1,0 +1,1318 @@
+body{padding: 0px;
+margin: 0px;width: 1512px;
+
+/* about us */
+
+
+
+width: 1512px;
+height: 2310px;
+
+background: #FFFFFF;}
+#navabar{display: flex;
+    position: absolute;
+    width: 1512px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+    
+    /* Grey/2 */
+    
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);}
+.head{width: 33.333%;
+float: left;}
+.head h1{position: absolute;
+    width: 107px;
+    height: 24px;
+    left: 96px;
+    top: 24px;
+    color: #579981;
+    font-family: 'Newsreader';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 24px;}
+.links{width: 33.333%;
+    margin-top: 1.2cm;}
+.search{width: 33.333%;}
+.links ul{margin-top: 1cm;
+    margin: 0;
+text-align: center;}
+.links li{display: inline-block;}
+.links a{width: 48px;
+    height: 21px;
+    
+    /* Button/16 */
+    
+    font-family: 'Sarabun';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 21px;
+    /* identical to box height */
+    flex: none;
+order: 0;
+flex-grow: 0;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 26px 25px;
+text-decoration: none;}
+.icon{ float: right;
+    width: 33.333%; }
+.icon p{
+    margin-top: 1.3cm;
+    justify-content: center;
+    place-items: center;
+    margin-left: 7cm;
+    
+    color: #99D5BF;}
+    .title {/* Your Name */
+
+
+        position: absolute;
+        width: 389px;
+        height: 80px;
+        left: 562px;
+        top: 128px;
+        
+        /* Large TItle/80 */
+        
+        font-family: 'Newsreader';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 80px;
+        line-height: 80px;
+        /* identical to box height */
+        
+        text-align: center;
+        text-transform: capitalize;
+        /* Text/1 */
+        
+        color: #302821;
+        }
+        .line1{position: absolute;
+            width: 240px;
+            height: 0px;
+            left: 636px;
+            top: 232px;
+            
+            /* Primary/1 */
+            
+            border: 1px solid #579981;
+            }
+            .tag{position: absolute;
+                height: 18px;
+                left: 660px;
+                top: 256px;
+                
+                /* Caption/14 Sans */
+                
+                font-family: 'Sarabun';
+                font-style: normal;
+                font-weight: 300;
+                font-size: 16px;
+                line-height: 18px;
+                /* identical to box height, or 129% */
+                
+                text-align: center;
+                letter-spacing: 0.1em;
+                text-transform: uppercase;
+                
+                /* Text/1 */
+                
+                color: #302821;}
+                .card{/* Rectangle 37 */
+
+                    position: absolute;
+                    width: 1320px;
+                    height: 621px;
+                    left: 96px;
+                    top: 325px;
+                    
+                    background: url(.jpg), #D9D9D9;background: url(.jpg), #D9D9D9;
+                    border-radius: 0px 0px 0px 256px;
+                    
+                }
+                .card img{border-radius: 0px 0px 0px 256px; background: url(.jpg), #D9D9D9;
+                }
+                    .text{/* Frame 9 */
+
+
+                        /* Auto layout */
+                        
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;
+                        align-items: flex-start;
+                        padding: 20px 20px;
+                        gap: 24px;
+                        
+                        position: absolute;
+                        width: 500px;
+                        height: 449px;
+                        left: 917px;
+                        top: 411px;
+                        
+                        /* Grey/2 */
+                        
+                        background: #FFFFFF;
+                        border-radius: 0px;}
+                        .inspiration{width: 93px;
+                            height: 18px;
+                            
+                            /* Caption/14 Sans */
+                            
+                            font-family: 'Sarabun';
+                            font-style: normal;
+                            font-weight: 300;
+                            font-size: 14px;
+                            line-height: 18px;
+                            /* identical to box height, or 129% */
+                            
+                            letter-spacing: 0.1em;
+                            text-transform: uppercase;
+                            
+                            /* Primary/1 */
+                            
+                            color: #579981;
+                            
+                            
+                            /* Inside auto layout */
+                            
+                            flex: none;
+                            order: 0;
+                            flex-grow: 0;}
+                            .visit{font-family: 'Newsreader';
+                                font-style: normal;
+                                font-weight: 300;
+                                font-size: 36px;
+                                line-height: 36px;
+                                /* identical to box height */
+                                
+                                width: 436px;
+                                height: 36px;
+
+                                /* Text/1 */
+                                
+                                color: #302821;}
+                         .date{width: 85px;
+                            height: 18px;
+                            
+                            /* Caption/14 Serif */
+                            
+                            font-family: 'Newsreader';
+                            font-style: normal;
+                            font-weight: 300;
+                            font-size: 14px;
+                            line-height: 18px;
+                            /* identical to box height, or 129% */
+                            
+                            
+                            /* Text/2 */
+                            
+                            color: #95908B;
+                            
+                            
+                            /* Inside auto layout */
+                            
+                            flex: none;
+                            order: 0;
+                            flex-grow: 0;}       
+                            .info{width: 436px;
+                                height: 140px;
+                                
+                                /* Body/16 */
+                                
+                                font-family: 'Sarabun';
+                                font-style: normal;
+                                font-weight: 300;
+                                font-size: 16px;
+                                line-height: 28px;
+                                /* or 175% */
+                                
+                                
+                                /* Text/3 */
+                                
+                                color: #6F6964;
+                                
+                                
+                                /* Inside auto layout */
+                                
+                                flex: none;
+                                order: 0;
+                                align-self: stretch;
+                                flex-grow: 0;}
+                                .link{display: flex;
+                                    flex-direction: row;
+                                    justify-content: center;
+                                    align-items: center;
+                                    padding: 16px 24px;
+                                    
+                                    
+                                    height: 53px;
+                                    
+                                    /* Primary/1 */
+                                    
+                                    background: #579981;
+                                    backdrop-filter: blur(1px);
+                                    /* Note: backdrop-filter has minimal browser support */
+                                    
+                                    
+                                    /* Inside auto layout */
+                                    
+                                    flex: none;
+                                    order: 1;
+                                    flex-grow: 0;}
+                                    .link a{/* Subscribe */
+
+                                       
+                                        height: 21px;
+                                        
+                                        /* Button/16 */
+                                        font-family: 'Sarabun';
+                                        font-style: normal;
+                                        font-weight: 300;
+                                        font-size: 16px;
+                                        line-height: 21px;
+                                        /* identical to box height */
+                                        text-align: center;
+                                        letter-spacing: 0.1em;
+                                        text-transform: uppercase;
+                                        text-decoration: none;
+                                        
+                                        /* Grey/2 */
+                                        color: #FFFFFF;
+                                        
+                                        
+                                    
+                                        }
+                                        .img1{width:  420px;
+                                            Height :284px;
+
+
+        position: absolute;
+        left: 96px;
+        right: 0%;
+        top: 1034px;
+        bottom: 0%;
+        }    
+        .life{position: absolute;
+            width: 388px;
+            height: 133.66px;
+            left: 16px;
+            bottom: 0px;
+            top: 1184.34px;
+            left: 112px;
+            
+            /* Large TItle/64 */
+            
+            font-family: 'Newsreader';
+            font-style: normal;
+            font-weight: 300;
+            font-size: 64px;
+            line-height: 64px;
+            display: flex;
+            align-items: flex-end;
+            
+            /* Grey/2 */
+            
+            color: #FFFFFF;
+            } 
+            .img2{
+                width:  420px;
+                    Height :284px;
+position: absolute;
+                left: 547px;
+                right: 0%;
+                top: 1034px;
+                bottom: 0%;}  
+             .travel{position: absolute;
+            width: 388px;
+            height: 133.66px;
+            left: 563px;
+            bottom: 0px;
+            top: 1184.34px;
+            
+            /* Large TItle/64 */
+            
+            font-family: 'Newsreader';
+            font-style: normal;
+            font-weight: 300;
+            font-size: 64px;
+            line-height: 64px;
+            display: flex;
+            align-items: flex-end;
+            
+            /* Grey/2 */
+            
+            color: white;
+            }
+            .img3{/* Rectangle 2 */
+
+                position: absolute;
+                left: 998px;
+                right: 0%;
+                top: 1034px;
+                bottom: 0%;
+                
+                background: url(.jpg), #D9D9D9;
+                } 
+                .tips{position: absolute;
+                    width: 388px;
+                    height: 133.66px;
+                    left:1014px ;
+                    bottom: 0px;
+                    top: 1184.34px;
+                    
+                    /* Large TItle/64 */
+                    
+                    font-family: 'Newsreader';
+                    font-style: normal;
+                    font-weight: 300;
+                    font-size: 64px;
+                    line-height: 64px;
+                    display: flex;
+                    align-items: flex-end;
+                    
+                    /* Grey/2 */
+                    
+                    color: #FFFFFF;
+                    } 
+                    .input{position: absolute;}
+                    .join  {position: absolute;
+                        width: 507px;
+                        height: 64px;
+                        left: 136px;
+                        top: 1406px;
+                        
+                        /* Large TItle/64 */
+                        
+                        font-family: 'Newsreader';
+                        font-style: normal;
+                        font-weight: 300;
+                        font-size: 40px;
+                        line-height: 64px;
+                        /* identical to box height */
+                        
+                        
+                        /* Text/1 */
+                        
+                        color: #302821;} 
+                        .form{position: absolute;
+                            width: 981px;
+                            height: 229px;
+                            left: 96px;
+                            top: 1435px;
+                             
+                            /* Grey/1 */
+                            
+                            background: #FAF8F6;  }
+                            .for{display: flex;
+                            padding: 20px 25px;}
+                            .for input{height: 1.5cm;
+                            width: 7cm;}
+                            .enter{position: absolute;
+                            left: 580px;height: 1.5cm;
+                                width: 7cm;}
+                            .enter input[type="submit"] {background: #579981;
+                                    }
+                                    .aside{position: absolute;
+                                    top: 1435px;
+                                left: 1148px;}
+                                    .aside img{/* Ellipse 1 */
+
+                                        width: 229px;
+                                        height: 229px;
+                                        border-radius: 150px;
+                                        
+                                        background: url(.jpg), #D9D9D9;
+                                        
+                                        /* Inside auto layout */
+                                        flex: none;
+                                        order: 0;
+                                        flex-grow: 0;
+                                        }
+                                        .aside h1{/* Title */
+
+                                            width: 200px;
+                                            height: 36px;
+                                            padding-left: 25px;
+                                            /* Heading/36 */
+                                            font-family: 'Newsreader';
+                                            font-style: normal;
+                                            font-weight: 300;
+                                            font-size: 32px;
+                                            line-height: 36px;
+                                            /* identical to box height */
+                                            text-align: center;
+                                            justify-content: center;
+                                            /* Text/1 */
+                                            color: #302821;
+                                            
+                                            text-transform: capitalize;
+                                            /* Inside auto layout */
+                                            
+                                            }
+                                            .aside p{/* Phasellus blandit mattis ipsum, ac laoreet lorem lacie. Cras et */
+
+                                                width: 259px;
+                                                height: 56px;
+                                                
+                                                /* Body/16 */
+                                                font-family: 'Sarabun';
+                                                font-style: normal;
+                                                font-weight: 300;
+                                                font-size: 16px;
+                                                line-height: 28px;
+                                                /* or 175% */
+                                                text-align: center;
+                                                padding-left:  2px; ;
+                                                /* Text/3 */
+                                                color: #6F6964;
+                                                top: 1748px;
+                                                
+                                                /* Inside auto layout */
+                                                flex: none;
+                                                order: 1;
+                                                align-self: stretch;
+                                                flex-grow: 0;
+                                                }
+                                                .position{top: 1720px; left: 96px;
+                                                position: absolute;}
+                            .position img{/* Rectangle 23 */
+
+                            
+                                width: 983px;
+                                height: 532px;
+                               
+                                
+                                background: linear-gradient(180deg, rgba(0, 0, 0, 0) 29.11%, rgba(0, 0, 0, 0.72) 100%), url(.jpg), #D9D9D9;
+                                border-radius: 0px 0px 256px 0px;
+                                }
+                                .absolute{position: absolute;
+                                    top: 145px;
+                                    left:32px; 
+                                color: white;}
+                                .absolute h6{font-family: 'Sarabun';
+                                    font-style: normal;
+                                    font-weight: 300;
+                                    font-size: 14px;
+                                    line-height: 18px;
+                                text-transform: capitalize;}
+                                .absolute .shore{font-family: 'Newsreader';
+                                    font-style: normal;
+                                    font-weight: 300;
+                                    font-size: 48px;
+                                    line-height:  px;
+                                    /* identical to box height */
+                                    text-transform: capitalize;
+                                
+                                
+                                    /* Grey/2 */
+                                    
+                                    color: #FFFFFF;}
+                                    .absolute .dates{font-family: 'Newsreader';
+                                        font-style: normal;
+                                        font-weight: 300;
+                                        font-size: 14px;
+                                        line-height: 18px;
+                                        /* identical to box height, or 129% */
+                                        
+                                        
+                                        /* Grey/2 */
+                                        
+                                        color: #FFFFFF;
+                                        }.absolute .para{font-family: 'Sarabun';
+                                            font-style: normal;
+                                            font-weight: 300;
+                                            font-size: 16px;
+                                            line-height: 28px;
+                                            /* or 175% */
+                                            
+                                            
+                                            /* Grey/2 */
+                                            
+                                            color: #FFFFFF;
+                                            }
+                                            .absolute .link{display: flex;
+                                                flex-direction: row;
+                                                justify-content: center;
+                                                align-items: center;
+                                                padding: 10px 40px;
+                                                
+                                                width: 176px;
+                                                height: 53px;
+                                                
+                                                /* Grey/2 */
+                                                
+                                                background: #FFFFFF;
+                                                 }
+                                                 .absolute .link a{ /* READ more */
+
+                                                    width: 96px;
+                                                    height: 21px;
+                                                    
+                                                    /* Button/16 */
+                                                    font-family: 'Sarabun';
+                                                    font-style: normal;
+                                                    font-weight: 300;
+                                                    font-size: 14px;
+                                                    line-height: 15px;
+                                                    /* identical to box height */
+                                                    text-align: center;
+                                                    letter-spacing: 0.1em;
+                                                    text-transform: uppercase;
+                                                    
+                                                    /* Text/1 */
+                                                    color: #302821;
+                                                    
+                                                    
+                                                    /* Inside auto layout */
+                                                    
+                                                    }
+               #link{position: absolute;
+                top:1884px ;
+                left: 1133px;
+                right: 0px;
+            display: inline-block;}
+            .useful h1{/* Title */
+        
+               
+                
+                /* Heading/24 */
+                font-family: 'newsreader';
+                font-style:normal;
+                font-weight: 300;
+                font-size: 20px;
+                line-height: 24px;
+                /* identical to box height */
+                text-align: center;
+                
+                /* Text/1 */
+                color: #302821;
+                
+                
+                /* Inside auto layout */
+                
+                } #link img{/* Rectangle 35 */
+
+                    width: 80px;
+                    height: 65px;
+                    
+                    background: url(.jpg);
+                    
+                    /* Inside auto layout */
+                    flex: none;
+                    order: 0;
+                    flex-grow: 0;
+                    } #link {/* Title */
+                        top:1941.5px ;
+                        left: 1229px;
+                        
+
+                        width: 163px;
+                        height: 20px;
+                        
+                        /* Heading/20 */
+                        font-family: 'Newsreader';
+                        font-style: normal;
+                        font-weight: 300;
+                        font-size: 20px;
+                        line-height: 20px;
+                        /* identical to box height */
+                        
+                        /* Text/1 */
+                        color: #302821;
+                        
+                        
+                        /* Inside auto layout */
+                        
+                        } #inline{display: flex;}
+                        #inline .first{ width: 33.3333%;
+                        float: left;
+                    position: absolute;
+                top: 2364px;
+            left: 96px;} 
+                        #inline .second{width: 33.333%;}
+                        #inline .third{width: 33.3333%;}
+                        .first img{/* Rectangle 24 */
+
+                            width: 613px;
+                            height: 442px;
+                            
+                            background: url(.jpg);
+                            border-radius: 0px 0px 256px 0px;
+                            
+                            /* Inside auto layout */
+                            flex: none;
+                            order: 0;
+                            flex-grow: 0;
+                            }.second{top:2375.5px;
+                            position: absolute;
+                        left:779px ;}
+                        .second p{/* Button 1 */
+
+                            /* Auto layout */
+                            display: flex;
+                            flex-direction: row;
+                            justify-content: center;
+                            align-items: center;
+                            padding: 16px 40px;
+                            
+                            width: 176px;
+                            height: 53px;
+                            
+                            /* Grey/1 */
+                            background: #FAF8F6;
+                            
+                            /* Inside auto layout */
+                            flex: none;
+                            order: 1;
+                            flex-grow: 0;
+                            
+                            
+                            /* READ more */
+                            
+                            width: 96px;
+                            height: 21px;
+                            
+                            /* Button/16 */
+                            font-family: 'Sarabun';
+                            font-style: normal;
+                            font-weight: 300;
+                            font-size: 16px;
+                            line-height: 21px;
+                            /* identical to box height */
+                            text-align: center;
+                            letter-spacing: 0.1em;
+                            text-transform: uppercase;
+                            
+                            /* Text/1 */
+                            color: #302821;
+                            
+                            
+                            /* Inside auto layout */
+                            flex: none;
+                            order: 0;
+                            flex-grow: 0;
+                            }.second p{justify-content: center;
+                                align-items: center;
+                                padding: 16px 30px;
+                                
+                                width: 176px;
+                                height: 53px;
+                                }.second h1{/* TRAVEL */
+
+                                    width: 54px;
+                                    height: 18px;
+                                    
+                                    /* Caption/14 Sans */
+                                    font-family: 'Sarabun';
+                                    font-style: normal;
+                                    font-weight: 300;
+                                    font-size: 10px;
+                                    line-height: 18px;
+                                    /* identical to box height, or 129% */
+                                    letter-spacing: 0.1em;
+                                    text-transform: uppercase;
+                                    
+                                    /* Primary/1 */
+                                    color: #579981;
+                                    
+                                    
+                                    /* Inside auto layout */
+                                    flex: none;
+                                    order: 0;
+                                    flex-grow: 0;
+                                    }.second h3{/* Title */
+
+                                        width: 290px;
+                                        height: 36px;
+                                        
+                                        /* Heading/36 */
+                                        font-family: 'Newsreader';
+                                        font-style: normal;
+                                        font-weight: 300;
+                                        font-size: 36px;
+                                        line-height: 36px;
+                                        /* identical to box height */
+                                        
+                                        /* Text/1 */
+                                        color: #302821;
+                                        text-transform: capitalize;
+                                        
+                                        /* Inside auto layout */
+                                        flex: none;
+                                        order: 1;
+                                        align-self: stretch;
+                                        flex-grow: 0;
+                                        }.second h4{/* 12 DEC 2022 */
+
+                                            width: 85px;
+                                            height: 18px;
+                                            
+                                            /* Caption/14 Serif */
+                                            font-family: 'Newsreader';
+                                            font-style: normal;
+                                            font-weight: 300;
+                                            font-size: 14px;
+                                            line-height: 18px;
+                                            /* identical to box height, or 129% */
+                                            
+                                            /* Text/2 */
+                                            color: #95908B;
+                                            
+                                            
+                                            /* Inside auto layout */
+                                            flex: none;
+                                            order: 0;
+                                            flex-grow: 0;
+                                            }.second a{/* READ more */
+
+                                                width: 96px;
+                                                height: 21px;
+                                                
+                                                /* Button/16 */
+                                                font-family: 'Sarabun';
+                                                font-style: normal;
+                                                font-weight: 300;
+                                                font-size: 16px;
+                                                line-height: 21px;
+                                                /* identical to box height */
+                                                text-align: center;
+                                                letter-spacing: 0.1em;
+                                                text-transform: uppercase;
+                                                text-decoration: none;
+                                                /* Text/1 */
+                                                color: #302821;
+                                                
+                                                
+                                                /* Inside auto layout */
+                                                flex: none;
+                                                order: 0;
+                                                flex-grow: 0;
+                                                }.line hr{/* Line 2 */
+                                                    position: absolute;
+                                                    top: 2308px;
+                                                    left: 98px;
+
+                                                    width: 983px;
+                                                    height: 0px;
+                                                    
+                                                    /* Primary/2 */
+                                                    border: 1px solid #99D5BF;
+                                                    
+                                                    /* Inside auto layout */
+                                                    flex: none;
+                                                    order: 1;
+                                                    flex-grow: 0;
+                                                    }
+                                                    .line h5{/* Title */
+position: absolute;top: 2270px; left: 1133px;
+                                                        width: 101px;
+                                                        height: 24px;
+                                                        
+                                                        /* Heading/24 */
+                                                        font-family: 'Newsreader';
+                                                        font-style: normal;
+                                                        font-weight: 300;
+                                                        font-size: 24px;
+                                                        line-height: 24px;
+                                                        /* identical to box height */
+                                                        text-align: center;
+                                                        
+                                                        /* Text/1 */
+                                                        color: #302821;
+                                                        
+                                                        
+                                                        /* Inside auto layout */
+                                                        flex: none;
+                                                        order: 0;
+                                                        flex-grow: 0;}
+
+   .third{position: absolute;
+    top: 2343px;
+    left: 1120px;
+  }
+   .block img{/* Frame 21 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 30px 16px 24px;
+    gap: 8px;
+    
+    
+    
+    border-radius: 0px;
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+    
+    
+    /* LIFESTYLE */
+}
+
+ 
+.lifes p{/* LIFESTYLE */
+       position: absolute;
+    width: 183px;
+    height: 36px;
+   top: 30px;
+   left: 26px;
+    /* Heading/36 */
+    font-family: 'Newsreader';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 36px;
+    /* identical to box height */
+    display: flex;
+    align-items: flex-end;
+    text-transform: uppercase;
+    /* Grey/2 */
+    color:  #FFFFFF;;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    }  
+    .fouth{position: absolute;
+    top:2449px ;
+left: 1120px;}
+.fifth{position: absolute;
+top:2555px ;
+left: 1120px;}    
+.header{position: absolute;
+top: 2717px; ;
+left: 1120px;}
+.menu{position: absolute;}
+.menu p{/* Title */
+
+    width: 43px;
+    height: 24px;
+    
+    /* Heading/24 */
+    font-family: 'Newsreader';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 24px;
+    /* identical to box height */
+    text-align: center;
+    text-transform: capitalize;
+    /* Text/1 */
+    color: #302821;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    } .wraper{position: absolute;
+    top: 2770px;
+left: 1120px;
+display: flex;}
+.wraper2{position: absolute;
+top: 2815px;
+left: 1120px;
+display: flex;
+}.wraper2 p{/* Tag Button */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 24px;
+    
+    width: 91px;
+    height: 34px;
+    
+    /* Grey/1 */
+    background: #FAF8F6;
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    
+    
+    /* Beach */
+    
+    width: 43px;
+    height: 18px;
+    
+    /* Caption/14 Sans */
+    font-family: 'Sarabun';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height, or 129% */
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    
+    /* Text/1 */
+    color: #302821;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    }
+.wraper p{/* Tag Button */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 24px;
+    
+    width: 95px;
+    height: 34px;
+    
+    /* Grey/1 */
+    background: #FAF8F6;
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    
+    
+    /* Beach */
+    
+    width: 47px;
+    height: 18px;
+    
+    /* Caption/14 Sans */
+    font-family: 'Sarabun';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height, or 129% */
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    
+    /* Text/1 */
+    color: #302821;
+    
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    } 
+.flex{display: flex;
+    padding-left: 10px;
+}
+.flex p{padding-left: 10px;
+display: grid;}
+.two{position: absolute;
+top:  2958.5px;
+left: 104px;}.wrapper{position: absolute; top: 2950px; left: 500px;}
+.wrapper img{/* Rectangle 24 */
+
+    width: 613px;
+    height: 442px;
+    
+    background: url(.jpg), #D9D9D9;
+    border-radius: 0px 0px 0px 256px;
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    }.link2{/* Button 1 */
+        
+
+
+        /* Auto layout */
+        
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 16px 40px;
+        
+        width: 176px;
+        height: 53px;
+        
+        /* Grey/1 */
+        
+        background: #FAF8F6;
+        
+        /* Inside auto layout */
+        
+        flex: none;
+        order: 1;
+        flex-grow: 0;} .link2 a{/* READ more */
+
+
+            width: 96px;
+            height: 21px;
+            
+            /* Button/16 */
+            
+            font-family: 'Sarabun';
+            font-style: normal;
+            font-weight: 300;
+            font-size: 14px;
+            line-height: 21px;
+            /* identical to box height */
+            text-transform: capitalize;
+            text-align: center;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+            text-decoration: none;
+            /* Text/1 */
+            
+            color: #302821;
+            
+            
+            /* Inside auto layout */
+            
+            flex: none;
+            order: 0;
+            flex-grow: 0;}.wrapper2{position: absolute;
+            top: 3536px; ;
+        left: 96px; ;}
+        .wrapper2 img{/* Rectangle 24 */
+
+            width: 613px;
+            height: 442px;
+            
+            background: url(.jpg), #D9D9D9;
+            border-radius: 0px 0px 256px 0px;
+            
+            /* Inside auto layout */
+            flex: none;
+            order: 0;
+            flex-grow: 0;
+            }.two .info{padding: 40px 0px;}.two .date{padding-top: 20px;}
+            .two .visit{padding-top: 20px;
+            text-transform: capitalize;}
+            .three{position: absolute;
+            top:3544.5px ;
+        left: 779px;}.three .info{padding: 40px 0px;}.three .date{padding-top: 20px;}
+        .three .visit{padding-top: 20px;
+        text-transform: capitalize;}
+        .block2{position: absolute;
+        top: 4174.28px;
+    display: flex;}
+        .block2 img{/* Rectangle 25 */
+            padding: 0px;
+
+            width: 251.72px;
+            height: 251.72px;
+            
+            background: url(.jpg), #D9D9D9;
+            
+            /* Inside auto layout */
+            flex: none;
+            order: 0;
+            flex-grow: 0;
+            }.below{position: absolute; display: flex;
+            top: 4426px;}.below img{/* Rectangle 30 */
+
+                
+                width: 251.72px;
+                height: 251.72px;
+                
+                background: url(.jpg), #D9D9D9;
+                
+                /* Inside auto layout */
+                
+                flex: none;
+                order: 0;
+                flex-grow: 0;
+                }.icon2{position: absolute;
+                top: 4394px;
+            left: 592px;
+        display: flex;
+        display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 40px;
+gap: 16px;
+
+position: absolute;
+width: 327.99px;
+height: 64px;
+left: 592px;
+bottom: 568px;
+
+/* Grey/2 */
+
+background: #FFFFFF;
+    }.icon2 p{/* Vector */
+
+        position: absolute;
+        left: 12.2%;
+        right: 78.05%;
+        top: 25%;
+        bottom: 25%;
+        
+        /* Text/1 */
+        
+        }.icon2 i{font-size: 30px;}
+        .icon2 h6{/* FOLLOW ON INSTAGRAM */
+
+            
+            padding-left:  50px;
+            font-family: 'Sarabun';
+            font-style: normal;
+            font-weight: 300;
+            font-size: 16px;
+            line-height: 21px;
+            /* identical to box height */
+            text-align: center;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+            
+            /* Text/1 */
+            color: #302821;
+            
+            
+            /* Inside auto layout */
+            flex: none;
+            order: 1;
+            flex-grow: 0;
+            }.leftfooter{position: absolute;
+            top: 4742px;
+        left: 96px;}
+        .leftfooter h1{width: 147px;
+            height: 36px;
+            
+            /* Heading/36 */
+            
+            font-family: 'Newsreader';
+            font-style: normal;
+            font-weight: 300;
+            font-size: 36px;
+            line-height: 36px;
+            /* identical to box height */
+            
+            
+            /* Text/1 */
+            
+            color: #302821;
+            
+            
+            /* Inside auto layout */
+            
+            flex: none;
+            order: 0;
+            flex-grow: 0;} .leftfooter p{width: 308px;
+                height: 84px;
+                
+                /* Body/16 */
+                
+                font-family: 'Sarabun';
+                font-style: normal;
+                font-weight: 300;
+                font-size: 16px;
+                line-height: 28px;
+                /* or 175% */
+                
+                
+                /* Text/3 */
+                
+                color: #6F6964;
+                
+                
+                /* Inside auto layout */
+                
+                flex: none;
+                order: 1;
+                flex-grow: 0;}.leftfooter h5{/* Copyright 2021 Copyright. All Rights Reserved. */
+
+
+                    position: absolute;
+                    left: 6.35%;
+                    right: 75.2%;
+                    top: 68.97%;
+                    bottom: 26.44%;
+                    
+                    font-family: 'Sarabun';
+                    font-style: normal;
+                    font-weight: 300;
+                    font-size: 14px;
+                    line-height: 16px;
+                    /* identical to box height, or 114% */
+                    
+                    width: 279px;
+                    height: 16px;
+                    /* Text/2 */
+                    
+                    color: #95908B;
+                    }.home{position: absolute;
+                        top: 4799px;
+                    left: 771px;}
+                    .home p{/* Home */
+
+
+                        width: 154px;
+                        height: 28px;
+                        
+                        font-family: 'Sarabun';
+                        font-style: normal;
+                        font-weight: 300;
+                        font-size: 16px;
+                        line-height: 28px;
+                        /* identical to box height, or 175% */
+                        
+                        
+                        /* Text/3 */
+                        
+                        color: #6F6964;
+                        text-transform: capitalize ;
+                        
+                        /* Inside auto layout */
+                        
+                        flex: none;
+                        order: 0;
+                        align-self: stretch;
+                        flex-grow: 0;}.privacy{position: absolute;
+                        top: 4799px;
+                    left: 925px;}.privacy p{width: 154px;
+                        height: 28px;
+                        
+                        font-family: 'Sarabun';
+                        font-style: normal;
+                        font-weight: 300;
+                        font-size: 16px;
+                        line-height: 28px;
+                        /* identical to box height, or 175% */
+                        
+                        
+                        /* Text/3 */
+                        
+                        color: #6F6964;
+                        
+                        
+                        /* Inside auto layout */
+                        
+                        flex: none;
+                        order: 1;
+                        align-self: stretch;
+                        flex-grow: 0;}.icon3{top: 4813.06px;
+                        left: 1129.72px;
+                    position: absolute;}
+                    .icon3 i{padding: 20px;
+                    font-size: 30px;}
+
+                                                

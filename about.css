@@ -1,0 +1,1117 @@
+body{padding: 0px;
+margin: 0px;
+width: 1512px;
+
+/* about us */
+
+
+position: relative;
+width: 1512px;
+height: 2310px;
+
+background: #FFFFFF;}
+#navbar2{/* Rectangle 1 */
+
+    position: absolute;
+    width: 1512px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+    
+    /* Grey/2 */
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);
+    }.head{width: 33.333%;
+        float: left;}
+        .head h1{position: absolute;
+            width: 107px;
+            height: 24px;
+            left: 96px;
+            top: 24px;
+            color: #579981;
+            font-family: 'Newsreader';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 24px;
+            line-height: 24px;}
+        .links{width: 33.333%;
+            position: absolute;
+            left: 579px;
+            margin-top: 1.2cm;}
+        .search{width: 33.333%;}
+        .links ul{margin-top: 1cm;
+            margin: 0;
+        text-align: center;
+    }
+        .links li{display: inline-block;}
+        .links a{width: 48px;
+            height: 21px;
+            
+            /* Button/16 */
+            
+            font-family: 'Sarabun';
+            font-style: normal;
+            font-weight: 300;
+            font-size: 16px;
+            line-height: 21px;
+            /* identical to box height */
+            flex: none;
+        order: 0;
+        flex-grow: 0;
+            text-align: center;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+            padding: 26px 25px;
+        text-decoration: none;}
+        .icon{ float: right;
+            width: 33.333%; }
+        .icon p{
+            margin-top: 1.3cm;
+            justify-content: center;
+            place-items: center;
+            margin-left: 7cm;
+            
+            color: #99D5BF;}
+            #card img{position: absolute;
+                width: 1512px;
+                height: 552px;
+                left: 0px;
+                top: 80px;
+                
+                background: url(.jpg), #D9D9D9;
+                border-radius: 0px;}.text{/* Title */
+
+
+                    /* Auto layout */
+                    
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    padding: 24px 32px;
+                    gap: 16px;
+                    
+                    position: absolute;
+                    width: 468px;
+                    height: 180px;
+                    left: 522px;
+                    top: 186px;
+                    
+                    background: #FFFFFF;}.text .inspiration{/* INSPIRATION */
+
+                        width: 93px;
+                        height: 18px;
+                        
+                        font-family: 'Sarabun';
+                        font-style: normal;
+                        font-weight: 300;
+                        font-size: 14px;
+                        line-height: 18px;
+                        letter-spacing: 0.1em;
+                        
+                        /* Primary/1 */
+                        color: #579981;
+                        
+                        
+                        /* Inside auto layout */
+                        flex: none;
+                        order: 0;
+                        flex-grow: 0;
+                        }.text .place{/* Title */
+
+                            width: 250px;
+                            height: 48px;
+                            
+                            /* Heading/48 */
+                            font-family: 'Newsreader';
+                            font-style: normal;
+                            font-weight: 300;
+                            font-size: 48px;
+                            line-height: 48px;
+                            /* identical to box height */
+                            
+                            /* Text/1 */
+                            color: #302821;
+                            
+                            
+                            /* Inside auto layout */
+                            flex: none;
+                            order: 0;
+                            flex-grow: 0;
+                            }.text .line{width: 250px;
+                                height: 0px;
+                                
+                                /* Primary/1 */
+                                
+                                border: 1px solid #579981;
+                                }.text .dates{/* 12 DEC 2022 */
+
+                                    width: 85px;
+                                    height: 18px;
+                                    
+                                    font-family: 'Newsreader';
+                                    font-style: normal;
+                                    font-weight: 300;
+                                    font-size: 14px;
+                                    line-height: 18px;
+                                    /* identical to box height, or 129% */
+                                    
+                                    /* Text/2 */
+                                    color: #95908B;
+                                    
+                                    
+                                    /* Inside auto layout */
+                                    flex: none;
+                                    order: 2;
+                                    flex-grow: 0;
+                                    }.page1{display: flex;
+                                        flex-direction: column;
+                                        align-items: center;
+                                        padding: 0px;
+                                        gap: 56px;
+                                        
+                                        position: absolute;
+                                        width: 983px;
+                                        height: 3410px;
+                                        left: 96px;
+                                        top: 680px;
+                                        }.page1 .text1 p{/* Phasellus blandit mattis ipsum, ac laoreet lorem lacie. Cras et ligula libero. Quisque quis magna vitae ipsum consequat varius in ut. Mirum est notare quam leet lorem lacie. Cras et ligula libero. Quisque quis magna vitae ipsum consequat varius in ut. Mirum est notare quam littera... */
+
+                                            width: 855px;
+                                            height: 84px;
+                                            
+                                            /* Body/16 */
+                                            font-family: 'Sarabun';
+                                            font-style: normal;
+                                            font-weight: 300;
+                                            font-size: 16px;
+                                            line-height: 28px;
+                                            /* or 175% */
+                                            text-align: justify;
+                                            
+                                            /* Text/3 */
+                                            color: #6F6964;
+                                            
+                                            
+                                            /* Inside auto layout */
+                                            flex: none;
+                                            order: 0;
+                                            align-self: stretch;
+                                            flex-grow: 0;
+                                            }
+                                        span{/* “ */
+                                                font-size: xx-large;
+
+
+                                                width: 39.17px;
+                                                height: 35.97px;
+                                                
+                                                /* Primary/2 */
+                                                
+                                                background: #99D5BF;
+                                                
+                                                /* Inside auto layout */
+                                                
+                                                flex: none;
+                                                order: 0;
+                                                flex-grow: 0;}
+                                        .page1 .text3 p{/* Phasellus blandit mattis ipsum, ac laoreet lorem lacie. Cras et ligula libero. Quisque quis magna vitae ipsum consequat varius in ut. Mirum est notare quam leet lorem lacie. Cras et ligula libero. Quisque quis magna vitae ipsum consequat varius in ut. Mirum est notare quam littera... */
+
+                                            width: 783.83px;
+                                            height: 96px;
+                                            
+                                            /* Body/Quotes */
+                                            font-family: 'Newsreader';
+                                            font-style: italic;
+                                            font-weight: 400;
+                                            font-size: 20px;
+                                            line-height: 32px;
+                                            /* or 160% */
+                                            text-align: justify;
+                                            
+                                            /* Text/3 */
+                                            color: #6F6964;
+                                            
+                                            
+                                            /* Inside auto layout */
+                                            flex: none;
+                                            order: 1;
+                                            flex-grow: 1;
+                                            }
+                                        .page1 .text4 p{/* Phasellus blandit mattis ipsum, ac laoreet lorem lacie. Cras et ligula libero. Quisque quis magna vitae ipsum consequat varius in ut. Mirum est notare quam leet lorem lacie. Cras et ligula libero. Quisque quis magna vitae ipsum consequat varius in ut. Mirum est notare quam littera...Phasellus blandit mattis ipsum, ac laoreet lorem lacie. Cras et ligula libero. Quisque quis magna vitae ipsum consequat varius in ut. Mirum est notare quam leet lorem lacie. Cras et ligula libero. Quisque quis magna vitae ipsum consequat varius in ut. Mirum est notare quam littera...Phasellus blandit mattis ipsum, ac laoreet lorem lacie. Cras et ligula libero. Quisque quis magna vitae ipsum consequat varius in ut. Mirum est notare quam leet lorem lacie. Cras et ligula libero. Quisque quis magna vitae ipsum consequat varius in ut. Mirum est notare quam littera... */
+
+                                            width: 855px;
+                                            height: 196px;
+                                            
+                                            /* Body/16 */
+                                            font-family: 'Sarabun';
+                                            font-style: normal;
+                                            font-weight: 300;
+                                            font-size: 16px;
+                                            line-height: 28px;
+                                            /* or 175% */
+                                            text-align: justify;
+                                            
+                                            /* Text/3 */
+                                            color: #6F6964;
+                                            
+                                            
+                                            /* Inside auto layout */
+                                            flex: none;
+                                            order: 3;
+                                            align-self: stretch;
+                                            flex-grow: 0;
+                                            }
+                                        .page1 .img img{/* Rectangle 38 */
+
+                                            width: 855px;
+                                            height: 490px;
+                                            
+                                            background: url(.jpg), #D9D9D9;
+                                            
+                                            /* Inside auto layout */
+                                            flex: none;
+                                            order: 4;
+                                            align-self: stretch;
+                                            flex-grow: 0;
+                                            }.page1 .vid img{ width: 855px;
+                                                height: 490px;
+                                                
+                                                background: url(.jpg), #D9D9D9;
+                                                
+                                                /* Inside auto layout */
+                                                flex: none;
+                                                order: 6;
+                                                align-self: stretch;
+                                                flex-grow: 0;
+
+
+                                               }.page1 .line2 {/* Line 3 */
+
+                                                width: 855px;
+                                                height: 0px;
+                                                
+                                                /* Primary/1 */
+                                                border: 1px solid #579981;}
+                                         .flex{display: flex;}
+                                         .flex p{padding:0px 30px;font-family: 'Sarabun';
+                                            font-style: normal;
+                                            font-weight: 300;
+                                            font-size: 14px;
+                                            line-height: 18px;
+                                            /* identical to box height, or 129% */
+                                            
+                                            letter-spacing: 0.1em;
+                                            text-transform: uppercase;
+                                            
+                                            /* Text/1 */
+                                            
+                                            color: #302821;
+                                        }
+                                         .flex i{padding: 15px 20px;}
+                                         .beach{background: #FAF8F6;
+                                        }.travel{background: #FAF8F6;}
+                                        .mexi{background: #FAF8F6;}
+                                        .food{background: #FAF8F6;}
+                                        .comment{padding: 56px 64px;
+                                            gap: 24px;
+                                            
+                                            width: 983px;
+                                            height: 720px;
+                                            
+                                            /* Grey/1 */
+                                            
+                                            background: #FAF8F6;
+                                            
+                                            /* Inside auto layout */
+                                            
+                                            flex: none;
+                                            order: 1;
+                                            flex-grow: 0;}
+                                            .comment .leave{
+                                               
+                                                font-family: 'Newsreader';
+                                                font-style: normal;
+                                                font-weight: 300;
+                                                font-size: 36px;
+                                                line-height: 36px;
+                                                /* identical to box height */
+                                                
+                                                
+                                                /* Text/1 */
+                                                
+                                                color: #302821;
+                                                
+                                                
+                                                /* Inside auto layout */
+                                                
+                                                flex: none;
+                                                order: 0;
+                                                flex-grow: 0;}
+                                                 .email{/* Your email address will not be published. Required fields are marked * */
+
+
+                                                   
+                                                    
+                                                    /* Body/16 */
+                                                    
+                                                    font-family: 'Sarabun';
+                                                    font-style: normal;
+                                                    font-weight: 300;
+                                                    font-size: 16px;
+                                                    line-height: 28px;
+                                                    /* identical to box height, or 175% */
+                                                    
+                                                    
+                                                    /* Text/2 */
+                                                    
+                                                    color: #95908B;
+                                                    
+                                                    
+                                                    /* Inside auto layout */
+                                                    
+                                                    flex: none;
+                                                    order: 2;
+                                                    flex-grow: 0;} .com{
+                                                        /* Body/16 */
+                                                        
+                                                        font-family: 'Sarabun';
+                                                        font-style: normal;
+                                                        font-weight: 300;
+                                                        font-size: 16px;
+                                                        line-height: 28px;
+                                                        /* identical to box height, or 175% */
+                                                        
+                                                        
+                                                        /* Text/1 */
+                                                        
+                                                        color: #302821;
+                                                        
+                                                        
+                                                        /* Inside auto layout */
+                                                        
+                                                        flex: none;
+                                                        order: 3;
+                                                        flex-grow: 0;}
+                                                          textarea{/* Rectangle 40 */
+
+
+                                                            box-sizing: border-box;
+                                                            
+                                                            width: 855px;
+                                                            height: 238px;
+                                                            
+                                                            /* Grey/2 */
+                                                            
+                                                            background: #FFFFFF;
+                                                            /* Text/2 */
+                                                            
+                                                            border: 1px solid #95908B;
+                                                            
+                                                            /* Inside auto layout */
+                                                            
+                                                            flex: none;
+                                                            order: 1;
+                                                            align-self: stretch;
+                                                            flex-grow: 0;}
+                                                            .name{display: flex;}
+                                                            .emails {padding-left: 24px;}
+                                                            .website {padding-left: 24px;}
+                                                            input[type="text"] {
+                                                                box-sizing: border-box;
+                                                                
+                                                                width: 269px;
+                                                                height: 64px;
+                                                                
+                                                                /* Grey/2 */
+                                                                
+                                                                background: #FFFFFF;
+                                                                /* Text/2 */
+                                                                
+                                                                border: 1px solid #95908B;
+                                                                
+                                                                /* Inside auto layout */
+                                                                
+                                                                flex: none;
+                                                                order: 1;
+                                                                align-self: stretch;
+                                                                flex-grow: 0;}
+                                                                .button{display: flex}
+                                                                .button p{padding-left: 16px;
+                                                                   padding-top: 24px;
+                                                                    width: 536px;
+                                                                    height: 28px;
+                                                                    
+                                                                    /* Body/16 */
+                                                                    
+                                                                    font-family: 'Sarabun';
+                                                                    font-style: normal;
+                                                                    font-weight: 300;
+                                                                    font-size: 16px;
+                                                                    line-height: 28px;
+                                                                    /* identical to box height, or 175% */
+                                                                    
+                                                                    
+                                                                    /* Text/1 */
+                                                                    
+                                                                    color: #302821;
+                                                                    
+                                                                    
+                                                                    /* Inside auto layout */
+                                                                    
+                                                                    flex: none;
+                                                                    order: 1;
+                                                                    flex-grow: 0;}
+                                                                    .button form{padding-top: 35px;}
+                                                                input[type="checkbox"]{box-sizing: border-box;
+                                                                   
+                                                                    
+
+                                                                    width: 24px;
+                                                                    height: 24px;
+                                                                    
+                                                                    /* Grey/1 */
+                                                                    
+                                                                    background: #FAF8F6;
+                                                                    /* Text/2 */
+                                                                    
+                                                                    border: 1px solid #95908B;
+                                                                    
+                                                                    /* Inside auto layout */
+                                                                    
+                                                                    flex: none;
+                                                                    order: 0;
+                                                                    flex-grow: 0;}
+                                                                    .post{/* Button 2 */
+
+
+                                                                        /* Auto layout */
+                                                                        
+                                                                        display: flex;
+                                                                        flex-direction: row;
+                                                                        justify-content: center;
+                                                                        align-items: center;
+                                                                        padding: 16px 24px;
+                                                                        
+                                                                        width: 213px;
+                                                                        height: 64px;
+                                                                        
+                                                                        /* Primary/1 */
+                                                                        
+                                                                        background: #579981;
+                                                                        backdrop-filter: blur(1px);
+                                                                        /* Note: backdrop-filter has minimal browser support */
+                                                                        
+                                                                        
+                                                                        /* Inside auto layout */
+                                                                        
+                                                                        flex: none;
+                                                                        order: 4;
+                                                                        flex-grow: 0;}
+                                                                        .post a{/* Subscribe */
+
+
+                                                                            
+                                                                            height: 21px;
+                                                                            
+                                                                            /* Button/16 */
+                                                                            
+                                                                            font-family: 'Sarabun';
+                                                                            font-style: normal;
+                                                                            font-weight: 300;
+                                                                            font-size: 16px;
+                                                                            line-height: 21px;
+                                                                            /* identical to box height */
+                                                                            
+                                                                            text-align: center;
+                                                                            letter-spacing: 0.1em;
+                                                                            text-transform: uppercase;
+                                                                            text-decoration: none;
+                                                                            /* Grey/2 */
+                                                                            
+                                                                            color: #FFFFFF;
+                                                                            
+                                                                            
+                                                                            /* Inside auto layout */
+                                                                            
+                                                                            flex: none;
+                                                                            order: 0;
+                                                                            flex-grow: 0;}
+                                                                            .posts{padding-top: 56px;}
+                                                      .posts h1{/* Title */
+
+                                                        width: 823px;
+                                                        height: 36px;
+                                                        
+                                                        font-family: 'Newsreader';
+                                                        font-style: normal;
+                                                        font-weight: 300;
+                                                        font-size: 36px;
+                                                        line-height: 36px;
+                                                        /* identical to box height */
+                                                        
+                                                        /* Text/1 */
+                                                        color: #302821;
+                                                        
+                                                        
+                                                        /* Inside auto layout */
+                                                        flex: none;
+                                                        order: 0;
+                                                        flex-grow: 0;
+                                                        }   .posts p{/* You may also like */
+
+                                                            width: 118px;
+                                                            height: 28px;
+                                                            
+                                                            /* Body/16 */
+                                                            font-family: 'Sarabun';
+                                                            font-style: normal;
+                                                            font-weight: 300;
+                                                            font-size: 16px;
+                                                            line-height: 28px;
+                                                            /* identical to box height, or 175% */
+                                                            
+                                                            /* Text/2 */
+                                                            color: #95908B;
+                                                            
+                                                            
+                                                            /* Inside auto layout */
+                                                            flex: none;
+                                                            order: 1;
+                                                            flex-grow: 0;
+                                                            } .box{display: flex;}
+                                                            .box img{
+                                                                width: 308px;
+                                                                height: 269px;
+                                                                
+                                                                background: url(.jpg);
+                                                                border-radius: 0px 0px 112px 0px;
+                                                                
+                                                                /* Inside auto layout */
+                                                                
+                                                                flex: none;
+                                                                order: 0;
+                                                                align-self: stretch;
+                                                                flex-grow: 0;} .left1{padding-left: 29.5px;}  
+                                                                .box p{/* Title */
+
+                                                                    width: 308px;
+                                                                    height: 24px;
+                                                                    
+                                                                    /* Heading/24 */
+                                                                    font-family: 'Newsreader';
+                                                                    font-style: normal;
+                                                                    font-weight: 300;
+                                                                    font-size: 24px;
+                                                                    line-height: 24px;
+                                                                    /* identical to box height */
+                                                                    text-transform: capitalize;
+                                                                    /* Text/1 */
+                                                                    color: #302821;
+                                                                    
+                                                                    
+                                                                    /* Inside auto layout */
+                                                                    flex: none;
+                                                                    order: 0;
+                                                                    align-self: stretch;
+                                                                    flex-grow: 0;
+                                                                    }  .box span{/* 12 DEC 2022 */
+
+
+                                                                        width: 85px;
+                                                                        height: 18px;
+                                                                        
+                                                                        /* Caption/14 Serif */
+                                                                        
+                                                                        font-family: 'Newsreader';
+                                                                        font-style: normal;
+                                                                        font-weight: 300;
+                                                                        font-size: 14px;
+                                                                        line-height: 18px;
+                                                                        /* identical to box height, or 129% */
+                                                                        background: none;
+                                                                        text-align: center;
+                                                                        
+                                                                        /* Text/2 */
+                                                                        
+                                                                        color: #95908B;
+                                                                        
+                                                                        
+                                                                        /* Inside auto layout */
+                                                                        
+                                                                        flex: none;
+                                                                        order: 1;
+                                                                        flex-grow: 0;} 
+                                                                        .folow{/* Follow */
+
+
+                                                                            position: absolute;
+                                                                            width: 1512px;
+                                                                            height: 503.44px;
+                                                                            left: 0px;
+                                                                            top: 4780px;} 
+                                                                            .img1 {display: flex;}
+                                                                            .img1 img{
+                                                                                width: 251.72px;
+                                                                                height: 251.72px;
+                                                                                
+                                                                                background: url(.jpg), #D9D9D9;
+                                                                                
+                                                                                /* Inside auto layout */
+                                                                                
+                                                                                flex: none;
+                                                                                order: 0;
+                                                                                flex-grow: 0;}           
+                                                           
+                                                        
+                                                            
+.page2{/* Sidebar */
+
+
+    /* Auto layout */
+    
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 24px;
+    gap: 72px;
+    
+    position: absolute;
+    width: 307px;
+    height: 1414px;
+    left: 1107px;
+    top: 680px;
+    } .identity img{ width: 229px;
+        height: 229px;
+        
+        background: url(.jpg), #D9D9D9;
+        
+        /* Inside auto layout */
+        border-radius: 150px;
+        flex: none;
+        order: 0;
+        flex-grow: 0;} 
+        .identity h1{/* Title */
+
+
+            width: 200px;
+            height: 36px;
+            
+            /* Heading/36 */
+            
+            font-family: 'Newsreader';
+            font-style: normal;
+            font-weight: 300;
+            font-size: 36px;
+            line-height: 36px;
+            /* identical to box height */
+            padding-left: 15px;
+            text-align: center;
+            
+            /* Text/1 */
+            
+            color: #302821;
+            
+            
+            /* Inside auto layout */
+            
+            flex: none;
+            order: 0;
+            flex-grow: 0;}.identity p{
+                width: 259px;
+                height: 56px;
+                
+                /* Body/16 */
+                
+                font-family: 'Sarabun';
+                font-style: normal;
+                font-weight: 300;
+                font-size: 16px;
+                line-height: 28px;
+                /* or 175% */
+                
+                text-align: center;
+                
+                /* Text/3 */
+                
+                color: #6F6964;
+                
+                
+                /* Inside auto layout */
+                
+                flex: none;
+                order: 1;
+                align-self: stretch;
+                flex-grow: 0;}
+                .ful{display: flex;}
+                .ful hr{
+                    width: 113px;
+                    height: 0px;
+                    top: 20px;
+                    left: 20px;
+                    /* Primary/1 */
+                    
+                    border: 1px solid #579981;
+                    
+                    /* Inside auto layout */
+                    
+                    flex: none;
+                    order: 1;
+                    flex-grow: 1;} 
+                .ful p{
+                    height: 24px;
+                    
+                    /* Heading/24 */
+                    float: left;
+                    font-family: 'Newsreader';
+                    font-style: normal;
+                    font-weight: 300;
+                    font-size: 24px;
+                    line-height: 24px;
+                    /* identical to box height */
+                    
+                    text-align: center;
+                    
+                    /* Text/1 */
+                    
+                    color: #302821;
+                    
+                    
+                    /* Inside auto layout */
+                    
+                    flex: none;
+                    order: 0;
+                    flex-grow: 0;}
+                    .list{display: flex;}
+                    .list img{width: 80px;
+                        height: 65px;
+                        float: left;
+                        background: url(.jpg);
+                        
+                        /* Inside auto layout */
+                        
+                        flex: none;
+                        order: 0;
+                        flex-grow: 0;}
+                        .list p{width: 163px;
+                            height: 20px;
+                            
+                            /* Heading/20 */
+                            padding-left: 16px;
+                            font-family: 'Newsreader';
+                            font-style: normal;
+                            font-weight: 300;
+                            font-size: 20px;
+                            line-height: 20px;
+                            /* identical to box height */
+                            
+                            
+                            /* Text/1 */
+                            
+                            color: #302821;
+                            
+                            
+                            /* Inside auto layout */
+                            
+                            flex: none;
+                            order: 0;
+                            align-self: stretch;
+                            flex-grow: 0;}
+                            .list span{width: 85px;
+                                height: 18px;
+                                
+                                /* Caption/14 Serif */
+                                
+                                font-family: 'Newsreader';
+                                font-style: normal;
+                                font-weight: 300;
+                                font-size: 14px;
+                                line-height: 18px;
+                                /* identical to box height, or 129% */
+                                
+                                
+                                /* Text/2 */
+                                background: #FAF8F6;
+                                color: #95908B;
+                                
+                                
+                                /* Inside auto layout */
+                                
+                                flex: none;
+                                order: 1;
+                                flex-grow: 0;}
+                                .page2 .block{position: absolute;
+                                top: 1120px;
+                            left: 26px;}
+                            .page2 .block2{position: absolute;
+                            top: 1230px;
+                        left: 26px;}
+                            .page2 .block3{position: absolute;
+                            top: 1340px;
+                        left:26px ;}
+
+                                .top p{position: absolute;
+                                top: 0px;
+                            left: 16px;
+                            
+                            height: 36px;
+                            
+                            /* Heading/36 */
+                            
+                            font-family: 'Newsreader';
+                            font-style: normal;
+                            font-weight: 300;
+                            font-size: 36px;
+                            line-height: 36px;
+                            /* identical to box height */
+                            
+                            display: flex;
+                            align-items: flex-end;
+                            text-transform: uppercase;
+                            /* Grey/2 */
+                            
+                            color: #FFFFFF;
+                            
+                            
+                            /* Inside auto layout */
+                            
+                            flex: none;
+                            order: 0;
+                            flex-grow: 0;}
+                            .tag{position: absolute;
+                            top: 1500px;}
+                            .ful{display: flex;}
+                .tag hr{
+                    width: 113px;
+                    height: 0px;
+                    top: 20px;
+                    left: 20px;
+                    /* Primary/1 */
+                    
+                    border: 1px solid #579981;
+                    
+                    /* Inside auto layout */
+                    
+                    flex: none;
+                    order: 1;
+                    flex-grow: 1;} 
+                .tag p{
+                    height: 24px;
+                    text-transform: capitalize;
+                    /* Heading/24 */
+                    float: left;
+                    font-family: 'Newsreader';
+                    font-style: normal;
+                    font-weight: 300;
+                    font-size: 24px;
+                    line-height: 24px;
+                    /* identical to box height */
+                    
+                    text-align: center;
+                    
+                    /* Text/1 */
+                    
+                    color: #302821;
+                    
+                    
+                    /* Inside auto layout */
+                    
+                    flex: none;
+                    order: 0;
+                    flex-grow: 0;}
+                    .lists{position: absolute;
+                    top: 1560px;}
+                    .lists p{display: inline-flex;
+                    padding-left: 10px;}
+                    .lists2{position: absolute;
+                    top: 1590px;}
+                    .lists2 p{display: inline-flex;
+                    padding-left: 10px;}
+                    .card1{/* Frame 10 */
+
+
+                        /* Auto layout */
+                        
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: center;
+                        align-items: center;
+                        padding: 16px 40px;
+                        gap: 16px;
+                        
+                        position: absolute;
+                        width: 327.99px;
+                        height: 64px;
+                        left: 592px;
+                        bottom: 567.28px;
+                        top: 200px;
+                        /* Grey/2 */
+                        
+                        background: #FFFFFF;}
+                        .card1 i{
+                            position: absolute;
+                            left: 12.2%;
+                            right: 78.05%;
+                            top: 33%;
+                            bottom: 25%;
+                            font-size: 30px;
+                            /* Text/1 */
+                            
+                            }
+                            .card1 p{/* FOLLOW ON INSTAGRAM */
+
+
+                               
+                                height: 21px;
+                                
+                                font-family: 'Sarabun';
+                                font-style: normal;
+                                font-weight: 300;
+                                font-size: 16px;
+                                line-height: 21px;
+                                /* identical to box height */
+                                
+                                text-align: center;
+                                letter-spacing: 0.1em;
+                                text-transform: uppercase;
+                                
+                                /* Text/1 */
+                                
+                                color: #302821;
+                                
+                                
+                                /* Inside auto layout */
+                                
+                                flex: none;
+                                order: 1;
+                                flex-grow: 0;}
+                      footer{/* Footer */
+                        top: 5350px; ;
+
+
+                        position: absolute;
+                        width: 1512px;
+                        height: 348px;
+                        left: 96px;
+                        bottom: 0px;
+                        } .leftfooter h1{width: 147px;
+                            height: 36px;
+                            
+                            /* Heading/36 */
+                            
+                            font-family: 'Newsreader';
+                            font-style: normal;
+                            font-weight: 300;
+                            font-size: 36px;
+                            line-height: 36px;
+                            /* identical to box height */
+                            
+                            
+                            /* Text/1 */
+                            
+                            color: #302821;
+                            
+                            
+                            /* Inside auto layout */
+                            
+                            flex: none;
+                            order: 0;}  .leftfooter p{width: 308px;
+                                height: 84px;
+                                position: absolute;
+                                /* Body/16 */
+                                top: 64px;
+                                font-family: 'Sarabun';
+                                font-style: normal;
+                                font-weight: 300;
+                                font-size: 16px;
+                                line-height: 28px;
+                                /* or 175% */
+                                
+                                
+                                /* Text/3 */
+                                
+                                color: #6F6964;
+                                
+                                
+                                /* Inside auto layout */
+                                
+                                flex: none;
+                                order: 1;
+                                flex-grow: 0;}.leftfooter h5{/* Copyright 2021 Copyright. All Rights Reserved. */
+                
+                
+                                    position: absolute;
+                                    left: 2%;
+                                    right: 75.2%;
+                                    top: 50%;
+                                    bottom: 26.44%;
+                                    
+                                    font-family: 'Sarabun';
+                                    font-style: normal;
+                                    font-weight: 300;
+                                    font-size: 14px;
+                                    line-height: 16px;
+                                    /* identical to box height, or 114% */
+                                    
+                                    width: 279px;
+                                    height: 16px;
+                                    /* Text/2 */
+                                    
+                                    color: #95908B;
+                                    }.home{position: absolute;
+                                        top: 121px;
+                                    left: 771px;}
+                                    .home p{/* Home */
+                
+                
+                                        width: 154px;
+                                        height: 28px;
+                                        
+                                        font-family: 'Sarabun';
+                                        font-style: normal;
+                                        font-weight: 300;
+                                        font-size: 16px;
+                                        line-height: 28px;
+                                        /* identical to box height, or 175% */
+                                        
+                                        
+                                        /* Text/3 */
+                                        
+                                        color: #6F6964;
+                                        text-transform: capitalize ;
+                                        
+                                        /* Inside auto layout */
+                                        
+                                        flex: none;
+                                        order: 0;
+                                        align-self: stretch;
+                                        flex-grow: 0;}.privacy{position: absolute;
+                                        top: 121px;
+                                    left: 925px;}.privacy p{width: 154px;
+                                        height: 28px;
+                                        
+                                        font-family: 'Sarabun';
+                                        font-style: normal;
+                                        font-weight: 300;
+                                        font-size: 16px;
+                                        line-height: 28px;
+                                        /* identical to box height, or 175% */
+                                        
+                                        
+                                        /* Text/3 */
+                                        
+                                        color: #6F6964;
+                                        
+                                        
+                                        /* Inside auto layout */
+                                        
+                                        flex: none;
+                                        order: 1;
+                                        align-self: stretch;
+                                        flex-grow: 0;}.icon3{top: 135.06px;
+                                        left: 1129.72px;
+                                    position: absolute;}
+                                    .icon3 i{padding: 20px;
+                                    font-size: 30px;}
+                       
+                               
+                                
